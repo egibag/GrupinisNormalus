@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Console.cs" />
+    <Compile Include="CsvFailas.cs" />
     <Compile Include="Pjaustykle.cs" />
     <Compile Include="Kompiuteris.cs" />
     <Compile Include="Program.cs" />
