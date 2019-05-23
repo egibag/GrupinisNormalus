@@ -10,19 +10,19 @@ namespace _20190521GrupinisRobertas
     {
         public void GautiDuomenis()
         {
-            Console.WriteLine("Duomenys gaunami!");
+            System.Console.WriteLine("Duomenys gaunami!");
             throw new NotImplementedException();
         }
 
         public void SiustiDuomenis()
         {
-            Console.WriteLine("Duomenys siunčiami!");
+            System.Console.WriteLine("Duomenys siunčiami!");
             throw new NotImplementedException();
         }
 
         public void DuomenuTipas()
         {
-            Console.WriteLine("Duomenu tipas duomenu baze!");
+            System.Console.WriteLine("Duomenu tipas duomenu baze!");
             throw new NotImplementedException();
         }
     }
